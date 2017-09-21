@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<update newv="2.0.3.10">
+  <version>
+    <upV>2.0.3.10</upV>
+    <upPath>/MyUpdate/DataInput/Warehouse.zip</upPath>
+    <upTime>2017-07-02 16:46:01.511</upTime>
+    <upname>Warehouse.zip</upname>
+    <upinfo>1、操作进度栏操作名称显示</upinfo>
+    <upfileSize>140057</upfileSize>
+  </version>
+</update>
+

@@ -1,0 +1,72 @@
+C:\Users\鲁彬\Desktop\新建文件夹\Warehouse\Warehouse\bin\Debug\Warehouse.exe.config
+C:\Users\鲁彬\Desktop\新建文件夹\Warehouse\Warehouse\obj\Debug\Warehouse.exe
+C:\Users\鲁彬\Desktop\新建文件夹\Warehouse\Warehouse\obj\Debug\Warehouse.pdb
+C:\Users\鲁彬\Desktop\料仓项目\Warehouse\Warehouse\bin\Debug\Warehouse.exe.config
+C:\Users\鲁彬\Desktop\料仓项目\Warehouse\Warehouse\obj\Debug\Warehouse.csprojResolveAssemblyReference.cache
+C:\Users\鲁彬\Desktop\料仓项目\Warehouse\Warehouse\obj\Debug\Warehouse.Chart.resources
+C:\Users\鲁彬\Desktop\料仓项目\Warehouse\Warehouse\obj\Debug\Warehouse.MainForm.resources
+C:\Users\鲁彬\Desktop\料仓项目\Warehouse\Warehouse\obj\Debug\Warehouse.Monitor.resources
+C:\Users\鲁彬\Desktop\料仓项目\Warehouse\Warehouse\obj\Debug\Warehouse.Properties.Resources.resources
+C:\Users\鲁彬\Desktop\料仓项目\Warehouse\Warehouse\obj\Debug\Warehouse.Time.resources
+C:\Users\鲁彬\Desktop\料仓项目\Warehouse\Warehouse\obj\Debug\Warehouse.csproj.GenerateResource.Cache
+C:\Users\鲁彬\Desktop\料仓项目\Warehouse\Warehouse\bin\Debug\Warehouse.exe
+C:\Users\鲁彬\Desktop\料仓项目\Warehouse\Warehouse\bin\Debug\Warehouse.pdb
+C:\Users\鲁彬\Desktop\料仓项目\Warehouse\Warehouse\bin\Debug\Allen.Page.dll
+C:\Users\鲁彬\Desktop\料仓项目\Warehouse\Warehouse\bin\Debug\MyControl.dll
+C:\Users\鲁彬\Desktop\料仓项目\Warehouse\Warehouse\bin\Debug\Allen.Page.pdb
+C:\Users\鲁彬\Desktop\料仓项目\Warehouse\Warehouse\bin\Debug\MyControl.pdb
+C:\Users\鲁彬\Desktop\料仓项目\Warehouse\Warehouse\obj\Debug\Warehouse.exe
+C:\Users\鲁彬\Desktop\料仓项目\Warehouse\Warehouse\obj\Debug\Warehouse.pdb
+C:\Users\鲁彬\Desktop\新建文件夹\4.5\Warehouse\Warehouse\bin\Debug\Warehouse.exe.config
+C:\Users\鲁彬\Desktop\新建文件夹\4.5\Warehouse\Warehouse\obj\Debug\Warehouse.exe
+C:\Users\鲁彬\Desktop\新建文件夹\4.5\Warehouse\Warehouse\obj\Debug\Warehouse.pdb
+C:\Users\鲁彬\Desktop\新建文件夹\4.5\Warehouse\Warehouse\bin\Debug\Warehouse.exe
+C:\Users\鲁彬\Desktop\新建文件夹\4.5\Warehouse\Warehouse\bin\Debug\Warehouse.pdb
+C:\Users\鲁彬\Desktop\新建文件夹\4.5\Warehouse\Warehouse\obj\Debug\Warehouse.Chart.resources
+C:\Users\鲁彬\Desktop\新建文件夹\4.5\Warehouse\Warehouse\obj\Debug\Warehouse.MainForm.resources
+C:\Users\鲁彬\Desktop\新建文件夹\4.5\Warehouse\Warehouse\obj\Debug\Warehouse.Monitor.resources
+C:\Users\鲁彬\Desktop\新建文件夹\4.5\Warehouse\Warehouse\obj\Debug\Warehouse.Properties.Resources.resources
+C:\Users\鲁彬\Desktop\新建文件夹\4.5\Warehouse\Warehouse\obj\Debug\Warehouse.Time.resources
+C:\Users\鲁彬\Desktop\新建文件夹\4.5\Warehouse\Warehouse\obj\Debug\Warehouse.csproj.GenerateResource.Cache
+C:\Users\鲁彬\Desktop\新建文件夹\4.5\Warehouse\Warehouse\obj\Debug\Warehouse.csprojResolveAssemblyReference.cache
+C:\Users\鲁彬\Desktop\新建文件夹\4.5\Warehouse\Warehouse\bin\Debug\MyControl.dll
+C:\Users\鲁彬\Desktop\新建文件夹\4.5\Warehouse\Warehouse\bin\Debug\MyControl.pdb
+C:\Users\鲁彬\Desktop\料仓项目\Warehouse\Warehouse\obj\Debug\Warehouse.Form_Login.resources
+E:\中慧项目\料仓项目调研\client project\Warehouse\Warehouse\bin\Debug\Warehouse.exe.config
+E:\中慧项目\料仓项目调研\client project\Warehouse\Warehouse\obj\Debug\Warehouse.exe
+E:\中慧项目\料仓项目调研\client project\Warehouse\Warehouse\obj\Debug\Warehouse.pdb
+E:\中慧项目\料仓项目调研\client project\Warehouse\Warehouse\bin\Debug\Warehouse.exe
+E:\中慧项目\料仓项目调研\client project\Warehouse\Warehouse\bin\Debug\Warehouse.pdb
+E:\中慧项目\料仓项目调研\client project\Warehouse\Warehouse\bin\Debug\MyControl.dll
+E:\中慧项目\料仓项目调研\client project\Warehouse\Warehouse\bin\Debug\Allen.Page.pdb
+E:\中慧项目\料仓项目调研\client project\Warehouse\Warehouse\bin\Debug\MyControl.pdb
+E:\中慧项目\料仓项目调研\client project\Warehouse\Warehouse\obj\Debug\Warehouse.csprojResolveAssemblyReference.cache
+E:\中慧项目\料仓项目调研\client project\Warehouse\Warehouse\obj\Debug\Warehouse.ChartForm.resources
+E:\中慧项目\料仓项目调研\client project\Warehouse\Warehouse\obj\Debug\Warehouse.Form_Login.resources
+E:\中慧项目\料仓项目调研\client project\Warehouse\Warehouse\obj\Debug\Warehouse.MainForm.resources
+E:\中慧项目\料仓项目调研\client project\Warehouse\Warehouse\obj\Debug\Warehouse.Monitor.resources
+E:\中慧项目\料仓项目调研\client project\Warehouse\Warehouse\obj\Debug\Warehouse.Properties.Resources.resources
+E:\中慧项目\料仓项目调研\client project\Warehouse\Warehouse\obj\Debug\Warehouse.Time.resources
+E:\中慧项目\料仓项目调研\client project\Warehouse\Warehouse\obj\Debug\Warehouse.csproj.GenerateResource.Cache
+C:\Users\鲁彬\Desktop\料仓项目\4-14\Warehouse\Warehouse\bin\Debug\Warehouse.exe.config
+C:\Users\鲁彬\Desktop\料仓项目\4-14\Warehouse\Warehouse\obj\Debug\Warehouse.exe
+C:\Users\鲁彬\Desktop\料仓项目\4-14\Warehouse\Warehouse\obj\Debug\Warehouse.pdb
+C:\Users\鲁彬\Desktop\料仓项目\4-14\Warehouse\Warehouse\bin\Debug\Warehouse.exe
+C:\Users\鲁彬\Desktop\料仓项目\4-14\Warehouse\Warehouse\bin\Debug\Warehouse.pdb
+C:\Users\鲁彬\Desktop\料仓项目\4-14\Warehouse\Warehouse\bin\Debug\MyControl.dll
+C:\Users\鲁彬\Desktop\料仓项目\4-14\Warehouse\Warehouse\obj\Debug\Warehouse.csprojResolveAssemblyReference.cache
+C:\Users\鲁彬\Desktop\料仓项目\4-14\Warehouse\Warehouse\obj\Debug\Warehouse.ChartForm.resources
+C:\Users\鲁彬\Desktop\料仓项目\4-14\Warehouse\Warehouse\obj\Debug\Warehouse.Form_Login.resources
+C:\Users\鲁彬\Desktop\料仓项目\4-14\Warehouse\Warehouse\obj\Debug\Warehouse.MainForm.resources
+C:\Users\鲁彬\Desktop\料仓项目\4-14\Warehouse\Warehouse\obj\Debug\Warehouse.Monitor.resources
+C:\Users\鲁彬\Desktop\料仓项目\4-14\Warehouse\Warehouse\obj\Debug\Warehouse.Properties.Resources.resources
+C:\Users\鲁彬\Desktop\料仓项目\4-14\Warehouse\Warehouse\obj\Debug\Warehouse.Time.resources
+C:\Users\鲁彬\Desktop\料仓项目\4-14\Warehouse\Warehouse\obj\Debug\Warehouse.csproj.GenerateResource.Cache
+C:\Users\鲁彬\Desktop\料仓项目\4-14\Warehouse\Warehouse\bin\Debug\Update.exe
+C:\Users\鲁彬\Desktop\料仓项目\4-14\Warehouse\Warehouse\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\鲁彬\Desktop\料仓项目\4-14\Warehouse\Warehouse\bin\Debug\Update.pdb
+C:\Users\鲁彬\Desktop\料仓项目\4-14\Warehouse\Warehouse\obj\Debug\Warehouse.Form1.resources
+C:\Users\鲁彬\Desktop\料仓项目\4-14\Warehouse\Warehouse\bin\Debug\Warehouse.exe.manifest
+C:\Users\鲁彬\Desktop\料仓项目\4-14\Warehouse\Warehouse\bin\Debug\Warehouse.application
+C:\Users\鲁彬\Desktop\料仓项目\4-14\Warehouse\Warehouse\obj\Debug\Warehouse.exe.manifest
+C:\Users\鲁彬\Desktop\料仓项目\4-14\Warehouse\Warehouse\obj\Debug\Warehouse.application
